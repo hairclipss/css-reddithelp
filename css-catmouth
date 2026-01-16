@@ -1,0 +1,70 @@
+body {
+  background-image:  url(https://i.pinimg.com/1200x/d8/ef/4f/d8ef4feaeadbb3f8723df1700e01059a.jpg);	
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: 1300px 900px;	
+	
+}
+
+
+.imgtxt {
+  width: fit-content;
+  height: fit-content;
+  display: inline-block;
+  position: absolute;
+}
+.imgtxt span {
+  opacity: 0;
+  position: absolute;
+  top: 60%;
+  left: 55%;
+  transform: translate(-50%, -50%);
+  z-index: 99;
+  font-size: 2.5rem;
+  color: #FFF;
+  filter: drop-shadow(1px 1px 0 black) 
+    drop-shadow(-1px 1px 0 black)
+    drop-shadow(1px -1px 0 black)
+    drop-shadow(-1px -1px 0 black);
+}
+.imgtxt:hover span, .imgtxt:focus span {
+  opacity: 1;
+}
+.imgtxt:hover img, .imgtxt:focus img {
+  /* add hover effects like transform or filter to your images here! */
+}
+
+
+
+
+.imgtxt {
+  width: fit-content;
+  height: fit-content;
+  display: inline-block;
+  position: absolute;
+}
+.imgtxt span {
+  opacity: 0;
+  position: absolute;
+  top: 60%;
+  left: 55%;
+  transform: translate(-50%, -50%);
+  z-index: 99;
+  font-size: 2.5rem;
+  color: #FFF;
+  filter: drop-shadow(1px 1px 0 black) 
+    drop-shadow(-1px 1px 0 black)
+    drop-shadow(1px -1px 0 black)
+    drop-shadow(-1px -1px 0 black);
+}
+.imgtxt:hover span, .imgtxt:focus span {
+  opacity: 1;
+}
+.imgtxt:hover img, .imgtxt:focus img {
+  /* add hover effects like transform or filter to your images here! */
+}
+
+	
+	
+}
