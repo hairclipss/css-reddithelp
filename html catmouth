@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Test Website</title>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="styles1.css" type="text/css" media="all">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+
+
+<a href="https://sonnyangelusa.com/" class="imgtxt" style="bottom: 270px; right: 770px;">
+  <img src="https://i.pinimg.com/736x/f0/96/02/f096028e296b329e6ea4d9b84ba1d509.jpg" alt="">
+  <span>Cat</span>
+</a>	
+
+<a href="https://sonnyangelusa.com/" class="imgtxt" style="bottom: 50px; right: 1600px;">
+  <img src="https://64.media.tumblr.com/e68de0f51d68e42d43386e3d2050de33/cb5ddd774218289d-9c/s250x400/a60b5a677b632f7d4fb11e0793509b48198183d5.pnj" alt="">
+  <span>Dog</span>
+</a>	
+
+</body>
+</html>
